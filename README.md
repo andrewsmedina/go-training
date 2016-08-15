@@ -7,8 +7,7 @@ https://go-proverbs.github.io/
 * constantes
 * funções
 * tipos
+* ponteiros
 * arrays
 * slices
 * maps
-
-* ponteiros
