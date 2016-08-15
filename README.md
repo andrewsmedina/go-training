@@ -5,6 +5,7 @@ https://golang.org/ref/spec
 https://golang.org/doc/effective_go.html
 https://go-proverbs.github.io/
 
+* GOPATH, workspace...
 * primeiro
 * variaveis
 * constantes
@@ -14,3 +15,14 @@ https://go-proverbs.github.io/
 * arrays
 * slices
 * maps
+* métodos
+* interfaces
+* embedding
+* erros
+* pacotes
+* testes
+* concorrencia
+* goroutines
+* canais
+* select
+* race
