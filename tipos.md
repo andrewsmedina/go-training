@@ -8,6 +8,7 @@ https://golang.org/ref/spec#Types
 ## Conversão de tipos
 
 * os tipos devem serem convertidos explicitamente
+* use https://golang.org/pkg/strconv/
 
 ## Struct types
 
