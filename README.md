@@ -7,6 +7,7 @@ https://go-proverbs.github.io/
 * constantes
 * funções
 * tipos
+* arrays
 * slices
 * maps
 
