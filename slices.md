@@ -6,3 +6,8 @@
 * Slices são como arrays dinâmicos
 * Há uma diferenca entre capacidade e tamanho
 * É possível aumentar um slice usando a função `bult-in` `append`.
+* ...
+
+# Exercícios
+
+1 - Escrever uma função que imprima N números
