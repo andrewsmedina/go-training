@@ -1,7 +1,7 @@
-Goroutines
+# Goroutines
 
 * Uma goroutine é uma thread leve.
 
-# Exercícos
+## Exercícos
 
-1) Fazer uma soma assíncrona
+* Fazer uma soma assíncrona
