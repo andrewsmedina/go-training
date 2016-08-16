@@ -18,8 +18,8 @@
 * métodos
 * interfaces
 * embedding
-* erros
 * pacotes
+* erros
 * testes
 * concorrencia
 * goroutines
