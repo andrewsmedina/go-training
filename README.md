@@ -26,3 +26,11 @@
 * canais
 * select
 * race
+* sync
+
+* strings
+* encoding/json
+* IO
+* Reflection
+* HTTP
+* CLI
