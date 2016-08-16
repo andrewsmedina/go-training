@@ -2,5 +2,10 @@ Concorrência
 
 # concorrência não é paralelismo
 
-Concorrência: lidar com várias coisas ao mesmo tempo
-Paralelismo: fazer várias coisas ao mesmo tempo
+## Concorrência
+
+Lidar com várias coisas ao mesmo tempo
+
+## Paralelismo
+
+Fazer várias coisas ao mesmo tempo
