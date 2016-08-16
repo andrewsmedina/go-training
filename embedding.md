@@ -7,5 +7,5 @@
 
 # Exercícios
 
-1 - Criar um tipo admin que contém um tipo user
-2 - Criar uma interface `opener`, `closer` e outra `openerandcloser`
+- Criar um tipo admin que contém um tipo user
+- Criar uma interface `opener`, `closer` e outra `openerandcloser`
