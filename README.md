@@ -6,7 +6,6 @@
 - https://go-proverbs.github.io/
 
 * GOPATH, workspace...
-<<<<<<< HEAD
 * [primeiro](primeiro_programa.md)
 * [variaveis](variaveis.md)
 * [constantes](constantes.md)
