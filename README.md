@@ -6,6 +6,7 @@
 - https://go-proverbs.github.io/
 
 * GOPATH, workspace...
+<<<<<<< HEAD
 * [primeiro](primeiro_programa.md)
 * [variaveis](variaveis.md)
 * [constantes](constantes.md)
@@ -26,3 +27,11 @@
 * [canais](canais.md)
 * [select](select.md)
 * [race](race.md)
+* [sync](sync.md)
+
+* [strings](strings.md)
+* [encoding/json](json.md)
+* [IO](io.md)
+* [Reflection](reflection.md)
+* [HTTP](http.md)
+* [CLI](cli.md)
